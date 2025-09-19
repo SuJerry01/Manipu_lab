@@ -1,0 +1,10 @@
+pyproject.toml
+setup.py
+Manipu_lab/__init__.py
+Manipu_lab/ui_extension_example.py
+Manipu_lab.egg-info/PKG-INFO
+Manipu_lab.egg-info/SOURCES.txt
+Manipu_lab.egg-info/dependency_links.txt
+Manipu_lab.egg-info/not-zip-safe
+Manipu_lab.egg-info/requires.txt
+Manipu_lab.egg-info/top_level.txt
